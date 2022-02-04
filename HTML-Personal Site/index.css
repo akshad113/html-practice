@@ -1,0 +1,12 @@
+h1 {
+  font-size: 4rem;
+}
+h3 {
+  text-transform: uppercase;
+}
+.main {
+  display: flex;
+}
+.blog-article {
+  width: 65%;
+}
